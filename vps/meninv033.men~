@@ -1,0 +1,5 @@
+T MENU IMPRESION DE INFORMES INVENTARIOS 
+O REPORTE DE UNIDADES COMPRADAS
+X vpg4s /programas/vps/inven/repunient.vp
+O TABLA DE COSTO VENTAS MENUDEO-MAYOREO-SESP
+X vpg4s /programas/vps/inven/tabcvta3.vp

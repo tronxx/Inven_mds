@@ -1,0 +1,25 @@
+T MENU IMPRESION DE INFORMES  INVENTARIOS
+O CONCENTRADO DE EXISTENCIA POR PRODUCTO Y LINEA (MCIA.NVA.O CANCELADA)
+X vpg4s /programas/vps/inven/exiubi.vp
+O TABLAS DE EXISTENCIA POR PISOS Y LINEAS
+X vpg4s /programas/vps/inven/exixlin.vp
+O ANALITICO DE LA EXISTENCIA POR TIENDA PRODUCTO Y LINEA
+X vpg4s /programas/vps/inven/anexiulc.vp
+O TABLA COMPARATIVA DE EXISTENCIA CON EL MES ANTERIOR
+X vpg4s /programas/vps/inven/compexi.vp
+O TABLA DE EXISTENCIA POR PROVEEDOR
+X vpg4s /programas/vps/inven/exiulcp.vp
+O PONER PROVEEDOR A PRODUCTOS QUE NO LO TENGAN
+X vpg4s /programas/vps/inven/ponprove.vp
+O TABLA DE EXISTENCIA CANCELADA
+X vpg4s /programas/vps/inven/exican1.vp
+O TABLA DE EXISTENCIA CANCELADA GLOBAL
+X vpg4s /programas/vps/inven/exican.vp
+O COSTO DE VTA.DE LA MCIA.CANCELADA
+X vpg4s /programas/vps/inven/cvtaubi.vp
+O ANALITICO EXISTENCIA POR PROVEEDOR
+X vpg4s /programas/vps/inven/exiprove.vp
+O LISTA ARTICULOS CON XTENSA 
+X vpg4s /programas/vps/inven/listxtensa.vp
+O SIGUIENTE MENU DE REPORTES
+M /programas/vps/inven/meninv033.men

@@ -1,0 +1,23 @@
+03 09  Periodo del Pedido
+05	 09  Nombre del Contacto
+03 28  Numero de la Entrada
+03 41  Fecha de la Entrada
+04 09  Proveedor
+04 14  Nombre del Proveedor
+06 55  Plan de Pago
+06 59  Descripcion del Plan de Pago
+06 77  Numero de Letras
+03 64  Importe
+04 64  Iva
+05 64  Total
+05 23  Tasa de Entrada
+05 33  Importe de costo financiero de compra
+07 55  Fecha de Primer Pago
+08 55  Fecha de Ultimo Pago
+06 23  Tasa de Costo financiero proveedor
+06 33  Importe de Costo financiero de Proveedor
+05 46  Plazo de Pago
+08 07  Importe de Fletes
+08 33  Importe del Costo Total de Entrada
+07 33  Descuentos por aplicar
+08 33  Gran total de la entrada

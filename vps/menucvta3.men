@@ -1,0 +1,15 @@
+T MENU 2 IMPRESION INFORME DE INVENTARIOS
+O TABLA DEL DESGLOCE DEL COST.VENTAS GLOBAL Y SU VARIACION (INFCOMP)
+X vpg4s /programas/vps/inven/infcomp.vp
+O ANALISIS DE ROTACION DE INVENTARIOS (ANALIROT)
+X vpg4s /programas/vps/inven/analirot.vp
+O REPORTE DE COSTO DE VENTAS MAYOREO (REPCOVMA)
+X vpg4s /programas/vps/inven/repcovma.vp
+O INVENTARIO FINAL ESPERADO (INVFIESP)
+X vpg4s /programas/vps/inven/invfiesp.vp
+O INFORME COSTO DE VENTAS CREDITO Y CONTADO (INFCVTACYC)
+X vpg4s /programas/vps/inven/infcvtacyc.vp
+O INFORME UNIDADES DESPLAZADAS POR GRUPO
+X vpg4s /programas/vps/inven/repunivt.vp
+O SIGUIENTE MENU DE INFORMES COSTO DE VENTAS
+M /programas/vps/inven/meninv031.men

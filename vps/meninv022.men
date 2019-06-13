@@ -1,0 +1,27 @@
+T MENU III DE OPERACIONES DIARIAS 
+O CAPTURA DE POLIZA PAGOS MAYOREO
+X vpg4s /programas/vps/inven/polcobma.vp
+O IMPRESION DE VENCIMIENTOS SEMANAL MAYOREO
+X vpg4s /programas/vps/inven/relvenmy.vp
+O CAPTURA PEDIDOS DE MAYOREO
+X vpg4s /programas/vps/inven/capedmay.vp
+O CORRECCION DE PUNTOS DE VENTA Y STATUS
+X vpg4s /programas/vps/inven/camptovt.vp
+O ACUMULADO DE ABONOS MAYOREO
+X vpg4s /programas/vps/inven/acumayo.vp
+O CAPTURA DE PRE-TRASPASOS
+X vpg4s /programas/vps/inven/captrasp3.vp
+O CAPTURA DE SABANAS FIDE
+X vpg4s /programas/vps/inven/capvtas.vp H
+O CAPTURA DE CANCELACIONES FIDE
+X vpg4s /programas/vps/inven/capcancel.vp J
+O CAPTURA DE CANCELACIONES x CAMBIO FIDE
+X vpg4s /programas/vps/inven/canxcam.vp K
+O CAPTURA DE SABANAS CELULARES Y ACCESORIOS
+X vpg4s /programas/vps/inven/capvtas.vp Q
+O CAPTURA DE CANCELACIONES CELULARES
+X vpg4s /programas/vps/inven/capcancel.vp U
+O CAPTURA DE CANCELACIONES x CAMBIO CELULARES
+X vpg4s /programas/vps/inven/canxcam.vp W
+O SIGUIENTE MENU DE OPERACIONES
+M /programas/vps/inven/meninv023.men

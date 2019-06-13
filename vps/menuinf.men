@@ -1,0 +1,13 @@
+T MENU IMPRESION INFORME DE INVENTARIOS
+O EXISTENCIA POR UBICACION (EXIUBI)
+X vpg4s /programas/vps/inven/exiubi.vp
+O EXISTENCIAS POR LINEA (EXIXLIN)
+X vpg4s /programas/vps/inven/exixlinb.vp
+O EXISTENCIAS A ULTIMO COSTO (ANEXIULC)
+X vpg4s /programas/vps/inven/anexiulc.vp
+O EXISTENCIAS A ULTIMO COSTO X PROVEEDOR (EXIULCP)
+X vpg4s /programas/vps/inven/exiulcp.vp
+O EXISTENCIAS DE CANCELACION (EXICAN1)
+X vpg4s /programas/vps/inven/exican1.vp
+O SIGUIENTE MENU DE INFORMES COSTO DE VENTAS
+M /programas/vps/inven/menucvta.men

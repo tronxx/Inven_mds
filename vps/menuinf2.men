@@ -1,0 +1,19 @@
+MENU 2 de MOROSOS
+RELACION ANALITICA DE VENTAS FONACOT
+vpg4s /programas/vps/cartera/relfacfn.vp
+TABLA CONCENTRADA POR PUNTO DE VENTA
+vpg4s /programas/vps/cartera/conxpvta.vp
+RELACION ANALITICA DE PAGOS FONACOT
+vpg4s /programas/vps/cartera/relpagfn.vp
+BALANCE DE FONACOT
+vpg4s /programas/vps/cartera/balfon.vp
+RELACION ANALITICA DE CTES.VIGENTES DE FONACOT
+vpg4s /programas/vps/cartera/relvigfn.vp
+ANALITICO DE COMISIONES POR PISO
+vpg4s /programas/vps/cartera/analicom.vp
+REPORTE DE VTAS.FONACOT POR EMPRESAS (ANUAL-MENSUAL)
+vpg4s /programas/vps/cartera/vtanufon.vp
+ANALITICO DE VENTAS FONACOT POR EMPRESAS
+vpg4s /programas/vps/cartera/anciafon.vp
+RELACION DE VENTAS FONACOT POR TIPO DE VTA. (PISO-EXPO)
+vpg4s /programas/vps/cartera/ciaubifn.vp

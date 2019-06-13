@@ -1,0 +1,18 @@
+T MENU PRINCIPAL 
+O MENU DE CONSULTA DE ARTICULOS
+M /programas/vps/inven/consuinv01.men
+O MENU DE OPERACIONES DIARIAS
+M /programas/vps/inven/meninv02.men
+O CAPTURA DE PEDIDOS
+X vpg4s /programas/vps/inven/capped.vp
+O MENU DE REPORTES
+M /programas/vps/inven/meninv03.men
+O MENU PARA REPORTES DE INFORME
+M /programas/vps/inven/menuinf.men
+O SHELL DE LINUX
+X bash
+O CAPTURA LISTA DE PRECIOS DE BODEGAZO
+X cd /user/invmds; vpg4s /programas/vps/inven/listpalm.vp
+O APAGAR LAS BASES DE DATOS
+X ./.shtdown.bat
+

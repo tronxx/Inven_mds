@@ -1,0 +1,19 @@
+T MENU 2 IMPRESION INFORME DE INVENTARIOS
+O CONCENTRADO DE ENTRADAS ESPECIALES (CONENTESP)
+X vpg4s /programas/vps/inven/conentesp.vp
+O CONCENTRADO DE SALIDAS ESPECIALES (CONSESP)
+X vpg4s /programas/vps/inven/consesp.vp
+O ESTADO DE RESULTADOS INVENTARIO (EDOINV)
+X vpg4s /programas/vps/inven/edoinv.vp
+O CONCENTRADO DE DEVOLUCIONES A PROVEEDOR (CONDEVPR)
+X vpg4s /programas/vps/inven/condevpr.vp
+O CONCENTRADO DE ENTRADAS POR NUMERO (CONSENT)
+X vpg4s /programas/vps/inven/consent.vp
+O TABLA DE COMPRAS MENSUAL Y ANUAL (INFENT)
+X vpg4s /programas/vps/inven/infent.vp
+O CONCENTRADO DE DEV.PROVEEDOR CON ANALITICO (CONDEVPR)
+X vpg4s /programas/vps/inven/condevpr.vp
+O ANALITICO DE COMPRAS POR PROVEEDOR (ANALIENT)
+X vpg4s /programas/vps/inven/analient.vp
+O SIGUIENTE MENU DE INFORMES COSTO DE VENTAS
+M /programas/vps/inven/menucvta3.men

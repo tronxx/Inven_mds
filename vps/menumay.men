@@ -1,0 +1,27 @@
+T MENU DE MAYOREO
+O MANTENIMIENTO DE MAYORISTAS
+X vpg4s /programas/vps/inven/altamay.vp
+O CAPTURA DE SALIDAS DE MAYOREO
+X vpg4s /programas/vps/inven/capsmay.vp
+O FACTURACION DE MAYOREO
+X vpg4s /programas/vps/inven/hazfacma.vp 1
+O CONSULTA DE MOVIMIENTOS MAYORISTAS
+X vpg4s /programas/vps/inven/movtmay.vp
+O CAPTURA DE POLIZA PAGOS MAYOREO
+X vpg4s /programas/vps/inven/polcobma.vp
+O IMPRESION DE VENCIMIENTOS SEMANAL MAYOREO
+X vpg4s /programas/vps/inven/relvenmy.vp
+O CAPTURA PEDIDOS DE MAYOREO
+X vpg4s /programas/vps/inven/capedmay.vp
+O ACUMULADO DE ABONOS MAYOREO
+X vpg4s /programas/vps/inven/acumayo.vp
+O IMPRESION DE COMPRAS-PAGOS-PENDIENTE POR COBRAR MAYOREO
+X vpg4s /programas/vps/inven/analimvm.vp
+O IMPRESION DE ANALITICO DEVOLUCIONES MAYOREO
+X vpg4s /programas/vps/inven/analicanm.vp
+O ACUMULADO DE COMPRAS/PAGOS MAYOREO x MESES
+X vpg4s /programas/vps/inven/acumay.vp
+O ACUMULADO MOVIMIENTOS MAYOREO
+X vpg4s /programas/vps/inven/repconsmay.vp
+O SIGUIENTE MENU DE MAYOREO
+M /programas/vps/inven/menumay2.men

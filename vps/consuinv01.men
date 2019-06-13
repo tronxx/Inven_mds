@@ -1,0 +1,22 @@
+T MENU DE MANTENIMIENTO DE ARCHIVOS 
+O CONSULTA DE ARTICULOS DE INVENTARIO
+X vpg4s /programas/vps/inven/consuinv.vp
+O MANTENIMIENTO DE ALMACENES
+X vpg4s /programas/vps/inven/altaalm.vp
+O MANTENIMIENTO DE PROVEEDORES
+X vpg4s /programas/vps/inven/altapro.vp
+O MANTENIMIENTO DE VENDEDORES
+X vpg4s /programas/vps/inven/altavnd2.vp
+O MANTENIMIENTO DE PUEBLOS
+X vpg4s /programas/vps/inven/altapue.vp
+O MANTENIMIENTO DE MAYORISTAS
+X vpg4s /programas/vps/inven/altamay.vp
+O MANTENIMIENTO DE LINEAS
+X vpg4s /programas/vps/inven/altalin.vp
+O MANTENIMIENTO DE ZONAS-INVENTARIO (INFORMES)
+X vpg4s /programas/vps/inven/mantzona.vp
+O MANTENIMIENTO DE ALMACENES PUNTO DE VENTA
+X vpg4s /programas/vps/inven/altapvta.vp
+O MANTENIMIENTO DE GRUPOS INVENTARIO (ARTICULOS DESPLAZADOS)
+X vpg4s /programas/vps/inven/mantgpo.vp
+

@@ -1,0 +1,25 @@
+MENU PRINCIPAL
+CONSULTA DE CLIENTES
+vpg4s /programas/vps/cartera/conscli5.vp
+CAPTURA DE POLIZAS MOROSOS
+vpg4s /programas/vps/cartera/polmort3.vp
+IMPRESION POLIZA DE MOROSOS
+vpg4s /programas/vps/cartera/impmort2.vp
+CONSULTA DE POLIZAS
+vpg4s /programas/vps/cartera/conspol.vp
+IMPRESION POLIZA DE CAJA
+vpg4s /programas/vps/cartera/impolti2.vp
+CANCELACION DE CLIENTES
+vpg4s /programas/vps/cartera/cancela.vp
+ACUMULADO DE POLIZAS
+vpg4s /programas/vps/cartera/repacupo.vp
+CAPTURA DE POLIZA DE CAJA
+vpg4s /programas/vps/cartera/cajati.vp
+EDITOR DE TEXTOS
+joe mitexto.txt
+IMPRESION DE EDITORES
+vpg4s /programas/vps/cartera/impedit.vp
+IMPRESION DE DESPACHO
+vpg4s /programas/vps/cartera/despati2.vp
+SIGUIENTE MENU DE MOROSOS
+vpg4s /programas/vps/cartera/menu.vp /programas/vps/cartera/menmor2.men

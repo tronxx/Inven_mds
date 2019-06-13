@@ -1,0 +1,20 @@
+T MENU PRINCIPAL 
+O MENU DE CONSULTA DE ARTICULOS
+M /programas/vps/inven/meninv01.men
+O MENU DE OPERACIONES DIARIAS
+M /programas/vps/inven/meninv02.men
+O CAPTURA DE PEDIDOS
+X vpg4s /programas/vps/inven/capped.vp
+O MENU DE REPORTES
+M /programas/vps/inven/meninv03.men
+O MENU PARA REPORTES DE INFORME
+M /programas/vps/inven/menuinf.men
+O MENU DE MAYOREO
+M /programas/vps/inven/menumay.men
+O SHELL DE LINUX
+X bash
+O Existencias X Marca, Grupo o Individual
+X vpg4s /programas/vps/inven/newconsuinv1.vp
+
+
+

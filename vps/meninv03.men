@@ -1,0 +1,24 @@
+T MENU PARA REPORTES DE INFORMES
+O IMPRESION DE EXISTENCIAS PARA CONTEO (antiguo)
+X vpg4s /programas/vps/inven/exispcon.vp
+O IMPRESION DE EXISTENCIA PARA CONTEO (NUEVO)
+X vpg4s /programas/vps/inven/exiserie.vp
+O IMPRESION DE DIARY
+X vpg4s /programas/vps/inven/diary.vp
+O IMPRESION DE KARDEX POR LINEA O POR ARTICULOS
+X vpg4s /programas/vps/inven/imprikdx.vp
+O EXISTENCIA GLOBAL POR PISO
+X vpg4s /programas/vps/inven/exiubi.vp
+O IMPRESION DE MINIMOS Y MAXIMOS
+X vpg4s /programas/vps/inven/reorden.vp
+O IMPRESION DE PRODUCTOS VENDIDOS POR VENDEDOR
+X vpg4s /programas/vps/inven/prodxvnd.vp
+O IMPRESION LISTAS DE PRECIOS
+X vpg4s /programas/vps/inven/listpre2.vp
+O IMPRESION DE COMPRAS POR PROVEDOR (A.C.L.)
+X vpg4s /programas/vps/inven/relpagvi2.vp
+O IMPRESION DE PRODUCTOS VENDIDOS POR VENDEDOR
+X vpg4s /programas/vps/inven/prodxvnd.vp
+O SIGUIENTE MENU DE REPORTES
+M /programas/vps/inven/meninv031.men
+ 

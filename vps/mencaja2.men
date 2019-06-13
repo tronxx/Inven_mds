@@ -1,0 +1,19 @@
+MENU PRINCIPAL
+ENVIO DE VENTAS
+vpg4s /programas/vps/cartera/envvtas2.vp
+ENVIO DE POLIZAS
+vpg4s /programas/vps/cartera/enviapol.vp
+RECEPCION DE VENTAS
+vpg4s /programas/vps/cartera/recivtasn.vp
+RECEPCION DE POLIZAS
+vpg4s /programas/vps/cartera/recipoln.vp
+ENVIO DE POLIZAS DE SERVICIO
+vpg4s /programas/vps/cartera/enviapolser.vp
+RECEPCION DE POLIZAS DE SERVICIO
+vpg4s /programas/vps/cartera/recpolrepn.vp
+ENVIO DE RELACIONES DE COBRANZA FONACOT
+vpg4s /programas/vps/cartera/envrelcf.vp
+RECEPCION DE RELACIONES DE COBRANZA FONACOT
+vpg4s /programas/vps/cartera/recirelcf.vp
+ENVIO/RECEPCION DE OBSERVACIONES
+vpg4s /programas/vps/cartera/envobs.vp

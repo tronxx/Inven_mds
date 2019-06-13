@@ -1,0 +1,20 @@
+03 28  Almacen de la Poliza
+03 58  Fecha de Inicio de Vigencia
+03 26  Fecha de la Poliza
+03 11  Folio de la Poliza
+04 28  Importe de Documentos (Total)
+04 50  Usuario
+05 55  Cuenta a la que se deposita
+04 11  Concepto de la Poliza
+06 17  Codigo del Articulo
+06 31  Descripcion del Articulo
+07 17  Precio Anterior MDS
+07 45  Precio Anterior FIDE
+07 66  Situacion Anterior
+08 17  Precio Nuevo MDS
+08 45  Precio Nuevo FIDE
+08 66  Situacion Nueva
+11 17  Concepto del Cambio
+10 17  Precio Poliza Extensa
+09 17  Costo Poliza Extensa
+09 45  Codigo de Garantia

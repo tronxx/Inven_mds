@@ -1,0 +1,14 @@
+03 11  Codigo del Cliente
+03 18  Nombre del Cliente
+04 11  Direccion del Cliente
+05 11  Ciudad del Cliente
+05 46  RFC del Cliente
+05 67  Tipo del Cliente
+05 69  Descripcion del Tipo de Cliente
+06 11  Clave del Vendedor que atiende al cliente
+06 25  Telefono del Cliente
+06 55  Contacto del Cliente
+07 11  Cargos del Cliente
+07 31  Abonos del Cliente
+07 50  Saldo del Cliente
+07 69  Numero de Documento del Cliente

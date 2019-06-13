@@ -1,0 +1,13 @@
+A
+
+
+
+ Periodo:           Numero :       Fecha:                Import:
+ Mayoris:                                                Iva   :
+ Contcto:                               Plazo:           Total :
+ =
+ST
+`Cant` `Codigo       ` `Descripcion                   ` `Precio Venta` `     Importe` `Surt`
+
+
+

@@ -1,0 +1,27 @@
+MENU 2 de MOROSOS
+REPORTE DE MOROSOS
+vpg4s /programas/vps/cartera/repmor.vp
+CONCENTRADO DE COMISIONES DEL MES (COBRANZA)
+vpg4s /programas/vps/cartera/comismor.vp
+CAPTURA RELACION COBRANZA
+vpg4s /programas/vps/cartera/relcob.vp
+RELACION DE RECOJAS VIGENTES
+vpg4s /programas/vps/cartera/relrecvi.vp
+RELACION DE LITIGIOS VIGENTES
+vpg4s /programas/vps/cartera/rellitvi.vp
+IMPRESION REPORTE DE VENTAS
+vpg4s /programas/vps/cartera/relvtas.vp
+ACUMULADO DE VENTAS
+vpg4s /programas/vps/cartera/acumula.vp
+REPORTE DE VENTAS BRUTAS POR VENDEDOR
+vpg4s /programas/vps/cartera/vtnetvn.vp
+ACUMULADO POR PROMOTOR
+vpg4s /programas/vps/cartera/dosportb.vp
+MANTENIMIENTO DE VENDEDORES
+vpg4s /programas/vps/cartera/altvnd2.vp
+MANTENIMIENTO DE PROMOTORES
+vpg4s /programas/vps/cartera/altaprom2.vp
+MANTENIMIENTO DE TDAS.(CODIGOS DE CAJAS)
+vpg4s /programas/vps/cartera/altatda.vp
+MENU PARA INFORMES (VTAS.CARTERA-FONACOT)
+vpg4s /programas/vps/cartera/menu.vp /programas/vps/cartera/menuinf.men

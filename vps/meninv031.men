@@ -1,0 +1,23 @@
+T MENU IMPRESION INFORME COSTO DE VENTAS
+O ARTICULOS DESPLAZADOS MENSUAL
+X vpg4s /programas/vps/inven/artdesp.vp
+O ARTICULOS DESPLAZADOS ANUAL
+X vpg4s /programas/vps/inven/anuardes.vp
+O CONCENTRADO DE MOVIMIENTOS INTERNOS
+X vpg4s /programas/vps/inven/concmvi.vp
+O CONCENTRADO DE CANCELACIONES POR CAMBIO
+X vpg4s /programas/vps/inven/concxcam.vp
+O CONCENTRADO CANCELACIONES POR CAMBIO FONACOT
+X vpg4s /programas/vps/inven/concxcfo.vp
+O CONCENTRADO DE SALIDAS ESPECIALES
+X vpg4s /programas/vps/inven/consesp.vp
+O CONCENTRADO DE ENTRADAS ESPECIALES
+X vpg4s /programas/vps/inven/conentesp.vp
+O INVENTARIO FINAL ESPERADO POR LINEA
+X vpg4s /programas/vps/inven/invfiesp.vp
+O INVENTARIO FINAL ESPERADO POR PRODUCTO POR LINEA
+X vpg4s /programas/vps/inven/edoinv.vp
+O ANALITICO DE VENTAS X RANGO DE FECHAS
+X vpg4s /programas/vps/inven/consvtas.vp 
+O SIGUIENTE MENU
+M /programas/vps/inven/meninv032.men

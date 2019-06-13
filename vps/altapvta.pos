@@ -1,0 +1,9 @@
+03 11  Codigo
+04 11  Nombre
+05 11  Direc
+06 15  Saldo Inicial
+07 15  Importe Entradas
+08 15  Importe Salidas
+09 15  Saldo Final
+10 22  Es de Exibicion o Almacenaje
+11 22  Zona de Inventarios

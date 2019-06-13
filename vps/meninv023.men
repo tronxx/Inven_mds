@@ -1,0 +1,5 @@
+T MENU IV DE OPERACIONES DIARIAS 
+O CAPTURA DE SABANAS IMEVI
+X vpg4s /programas/vps/inven/capvtas.vp 1
+O CAPTURA DE CANCELACIONES IMEVI
+X vpg4s /programas/vps/inven/capcancel.vp 2

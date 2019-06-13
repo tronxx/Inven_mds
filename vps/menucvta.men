@@ -1,0 +1,25 @@
+T MENU IMPRESION INFORME DE INVENTARIOS
+O TABLA POR LINEA DEL COSTO DE VENTA (TABCVTA3)
+X vpg4s /programas/vps/inven/tabcvta3.vp
+O INFORME DE COSTO DE VENTAS (INFCVTA)
+X vpg4s /programas/vps/inven/infcvta.vp
+O MUB CANCELACIONES (MUBFON)
+X vpg4s /programas/vps/inven/mubfon.vp
+O PROYECCION DE COSTOS Y COMPARATIVO CON VENTAS (PROYCOM)
+X vpg4s /programas/vps/inven/proycom.vp
+O COSTO DE VENTA POR UBICACION Y POR LINEA (CVTAUBI)
+X vpg4s /programas/vps/inven/cvtaubi.vp
+O ANALITICO DE COSTO DE VENTA POR LINEA (REPCVTA)
+X vpg4s /programas/vps/inven/repcvta.vp
+O ANALITICO DE SALIDAS MENUDEO Y MAYOREO (ANALISMA)
+X vpg4s /programas/vps/inven/repcvta.vp
+O ACUMULADO DE ARTICULOS DESPLAZADOS (ARTDESP)
+X vpg4s /programas/vps/inven/artdesp.vp
+O ACUMULADO DE ARTICULOS DESPLAZADOS ANUAL (ANUARDES)
+X vpg4s /programas/vps/inven/anuardes.vp
+O CONCENTRADO DE MOVIMIENTOS INTERNOS (CONCMVI)
+X vpg4s /programas/vps/inven/concmvi.vp
+O CONCENTRADO DE CANCELACIONES X CAMBIO (CONCXCAM)
+X vpg4s /programas/vps/inven/concxcam.vp
+O SIGUIENTE MENU DE INFORMES COSTO DE VENTAS
+M /programas/vps/inven/menucvta2.men

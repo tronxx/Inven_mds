@@ -1,0 +1,12 @@
+05 16 Linea Inicial
+05 51 Linea Final
+06 16 Zona Inicial
+06 51 Zona Final
+07 19 Fecha Corte
+08 19 Dias de Rezago
+09 48 Mercancia Cancelada Nueva o Total
+10 55 Rezagado en Base a Fecha de Compra o Kardex ? <C/K>:
+11 55 Concentrado (cuantos) o Analitico (cuales) <C/A>:
+12 20 Primer Situacion
+12 55 Ultima Situacion
+13 55 Solo estas o Todas menos Estas ? S/T

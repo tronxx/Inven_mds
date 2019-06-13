@@ -1,0 +1,15 @@
+03 11  Codigo
+04 11  Nombre
+06 11  Direc
+07 11	Ciudad
+08 11  RFC
+09 11  Telefono
+10 11  Vendedor
+10 16  Nombre Vendedor
+10 11  Contacto
+11 16  Tipo de Cliente (C-Credito A-Contado)
+12 16  Descripcion del Tipo de Cliente
+13 16  Abonos
+14 16  Saldo
+15 16  Cargos
+05 11  Nombre2

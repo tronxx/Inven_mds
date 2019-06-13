@@ -1,0 +1,25 @@
+03 09  Clave del Almacen
+03 14  Descripcion del Almacen
+03 53  Numero de la Entrada
+03 67  Fecha de la Entrada
+04 13  Almacen Emisor (Siempre es AL)
+04 11  Nombre del Cliente
+04 51  Vendedor
+04 56  Nombre del Vendedor
+05 11  Poblacion
+05 13  Importe
+05 33  Iva
+05 57  Total
+05 51  Precio de Venta
+06 11  Tipo de Pago E=Efectivo A=Acl C=Caja_Ahorro
+05 55  Fecha de Primer Pago
+06 55  Fecha de Ultimo Pago
+06 23  Tasa de Costo financiero proveedor
+06 33  Importe de Costo financiero de Proveedor
+07 55  Numero de Factura del Proveedor
+08 07  Importe de Fletes
+08 33  Importe del Costo Total de Entrada
+07 33  Descuentos por aplicar
+08 33  Gran total de la entrada
+06 25  Salida S/N
+06 51  Tipo de Factura Y=Mayoreo M=Menudeo

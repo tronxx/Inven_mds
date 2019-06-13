@@ -1,0 +1,23 @@
+03 13  Clave del Almacen
+03 18  Descripcion del Almacen
+03 57  Numero de la Entrada
+04 57  Fecha de la Entrada
+04 13  Almacen Emisor (Siempre es AL)
+04 18  Nombre del Almacen Proveedor
+04 55  Plan de Pago
+04 59  Descripcion del Plan de Pago
+04 77  Numero de Letras
+05 13  Importe
+05 33  Iva
+05 57  Total
+05 23  Tasa de Entrada
+05 33  Importe de costo financiero de compra
+05 55  Fecha de Primer Pago
+06 55  Fecha de Ultimo Pago
+06 23  Tasa de Costo financiero proveedor
+06 33  Importe de Costo financiero de Proveedor
+07 55  Numero de Factura del Proveedor
+08 07  Importe de Fletes
+08 33  Importe del Costo Total de Entrada
+07 33  Descuentos por aplicar
+08 33  Gran total de la entrada

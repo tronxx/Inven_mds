@@ -1,0 +1,48 @@
+T MENU IMPRESION INFORME DE INVENTARIOS
+O TABLA POR LINEA DEL COSTO DE VENTA (TABCVTA3)
+X vpg4s /programas/vps/inven/tabcvta3.vp
+O INFORME DE COSTO DE VENTAS (INFCVTA)
+X vpg4s /programas/vps/inven/infcvta.vp
+O MUB CANCELACIONES (MUBFON)
+X vpg4s /programas/vps/inven/mubfon.vp
+O PROYECCION DE COSTOS Y COMPARATIVO CON VENTAS (PROYCOM)
+X vpg4s /programas/vps/inven/proycom.vp
+O COSTO DE VENTA POR UBICACION Y POR LINEA (CVTAUBI)
+X vpg4s /programas/vps/inven/cvtaubi.vp
+O ANALITICO DE COSTO DE VENTA POR LINEA (REPCVTA)
+X vpg4s /programas/vps/inven/repcvta.vp
+O ANALITICO DE SALIDAS MENUDEO Y MAYOREO (ANALISMA)
+X vpg4s /programas/vps/inven/repcvta.vp
+O ACUMULADO DE ARTICULOS DESPLAZADOS (ARTDESP)
+X vpg4s /programas/vps/inven/artdesp.vp
+O ACUMULADO DE ARTICULOS DESPLAZADOS ANUAL (ANUARDES)
+X vpg4s /programas/vps/inven/anuardes.vp
+O CONCENTRADO DE MOVIMIENTOS INTERNOS (CONCMVI)
+X vpg4s /programas/vps/inven/concmvi.vp
+O CONCENTRADO DE CANCELACIONES X CAMBIO (CONCXCAM)
+X vpg4s /programas/vps/inven/concxcam.vp
+O CONCENTRADO DE ENTRADAS ESPECIALES (CONENTESP)
+X vpg4s /programas/vps/inven/conentesp.vp
+O CONCENTRADO DE SALIDAS ESPECIALES (CONSESP)
+X vpg4s /programas/vps/inven/consesp.vp
+O SIGUIENTE MENU DE INFORMES COSTO DE VENTAS
+M /programas/vps/inven/menucvta2.men
+
+O TABLA Y ANALITICO SALIDAS DE FONACOT
+X vpg4s /programas/vps/inven/analifon.vp
+O ANALITICOS DE ENTRADAS / CTO.DE VTA. (MENUDEO,MAYOREO,FONACOT)
+X vpg4s /programas/vps/inven/analisma.vp
+O CONCENTRADO DE ENTRADAS POR NUMERO
+X vpg4s /programas/vps/inven/consent.vp
+O TABLA DE COMPRAS MENSUAL Y ANUAL
+X vpg4s /programas/vps/inven/infent.vp
+O ANALITICO DE COMPRAS POR PROVEEDOR
+X vpg4s /programas/vps/inven/analient.vp
+O CONCENTRADO DE DEVOLUCIONES A PROVEEDOR CON ANALITICO
+X vpg4s /programas/vps/inven/condevpr.vp
+O TABLA DEL DESGLOCE DEL COSTO DE VENTAS GLOBAL Y SU VARIACION
+X vpg4s /programas/vps/inven/infcomp.vp
+O ANALISIS DE ROTACION DE INVENTARIOS
+X vpg4s /programas/vps/inven/analirot.vp
+O SIGUIENTE MENU DE INFORMES
+M /programas/vps/inven/meninv031.men

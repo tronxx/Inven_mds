@@ -1,0 +1,29 @@
+T MENU DE PROVEEDORES
+O CAPTURA DE PAGOS SIN PAGARES
+X vpg4s /programas/inven/movtpro.vp
+O IMPRESION DE COMPRAS Y PAGOS PROVEDORES SIN PAGARES
+X vpg4s /programas/inven/pagdiap.vp
+O REPORTE DE VENCIMIENTOS DE PROVEEDORES SIN PAGARES
+X vpg4s /programas/inven/vigpro2.vp
+O ANALITICO MENSUALES DE PAGOS Y COMPRAS SIN PAGARES
+X vpg4s /programas/inven/pagpro.vp
+O CAPTURA DE PAGOS PROVEEDORES CON PAGARES
+X vpg4s /programas/inven/capenpag2.vp
+O REPORTE DE COMPRAS Y PAGOS CON PAGARES
+X vpg4s /programas/inven/lismovp2.vp
+O RELACION DE PAGARES VIGENTES
+X vpg4s /programas/inven/relpagvi.vp
+O RELACION DE PASIVOS_CONTABILIDAD (FACTURAS VIGENTES)
+X vpg4s /programas/inven/relpas.vp
+O ESTADO DE CUENTA DE PROVEEDORES
+X vpg4s /programas/inven/escupro.vp
+O ALTAS DE PROVEEDORES
+X vpg4s /programas/inven/altapro.vp
+O ANALISIS SALDO ENTRADAS PROVEEDOR
+X vpg4s /programas/inven/escupro2.vp
+O RECEPCION DE ENTRADAS PROVEEDORES (VIA DISKETTE)
+X vpg4s /programas/inven/recmovp.vp
+O RESPALDO DIARIOX vpg4s /programas/cae/respalda.vp
+O TABLA DE PROVEEDORES
+X vpg4s /programas/inven/edopro.vp
+O FLUJO DE PROVEEDORESX vpg4s /programas/inven/flujopro.vp

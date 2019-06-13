@@ -1,0 +1,19 @@
+MENU REPORTES DE SERVICIOS
+CONSULTA DE CLIENTES
+vpg4s /programas/vps/cartera/conscli5.vp
+CONSULTA Y MANTENIMIENTO DE REPORTES POR NUMERO
+vpg4s /programas/vps/cartera/consrep.vp
+CAPTURA DE POLIZA DE SERVICIOS
+vpg4s /programas/vps/cartera/capolrep3.vp
+INFORME DE REPORTES
+vpg4s /programas/vps/cartera/lisrep.vp
+MATENIEMIENTO DE TALLERES DE SERVICIO
+vpg4s /programas/vps/cartera/altallser.vp
+IMPRESION DE REPORTE DIARIO
+vpg4s /programas/vps/cartera/diarep.vp
+IMPRESION DE REPORTES QUE ENTRARON POR LINEA
+vpg4s /programas/vps/cartera/anlinrep.vp
+IMPRESION DE REPORTES RESUELTOS
+vpg4s /programas/vps/cartera/represuel.vp
+IMPRESION DE EDITORES
+vpg4 /programas/vps/cartera/impedit.vp

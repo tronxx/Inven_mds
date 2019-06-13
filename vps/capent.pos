@@ -1,0 +1,26 @@
+03 09  Clave del Almacen
+03 14  Descripcion del Almacen
+03 53  Numero de la Entrada
+03 65  Fecha de la Entrada
+04 09  Proveedor
+04 14  Nombre del Proveedor
+04 55  Plan de Pago
+04 59  Descripcion del Plan de Pago
+04 77  Numero de Letras
+05 07  Importe
+06 07  Iva
+07 07  Total
+05 23  Tasa de Entrada
+05 36  Importe de costo financiero de compra
+05 58  Fecha de Primer Pago
+06 58  Fecha de Ultimo Pago
+06 23  Tasa de Costo financiero proveedor
+06 36  Importe de Costo financiero de Proveedor
+07 55  Numero de Factura del Proveedor
+08 07  Importe de Fletes
+08 33  Importe del Costo Total de Entrada
+07 33  Descuentos por aplicar
+08 33  Gran total de la entrada
+08 55  Serie del Articulito
+09 07  Banco de Pago
+09 55  Num Cta Pago

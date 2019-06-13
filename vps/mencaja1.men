@@ -1,0 +1,27 @@
+MENU PRINCIPAL
+CONSULTA DE CLIENTES
+vpg4s /programas/vps/cartera/conscli5.vp
+CONSULTA DE POLIZAS
+vpg4s /programas/vps/cartera/conspol.vp
+CAPTURA DE POLIZA DE CAJA
+vpg4s /programas/vps/cartera/cajati.vp
+IMPRESION POLIZA DE CAJA
+vpg4s /programas/vps/cartera/impolti2.vp
+IMPRESION DE DESPACHO
+vpg4s /programas/vps/cartera/despati2.vp
+TRASPASO INFORMACION/COMPUTADORAS
+vpg4s /programas/vps/cartera/menu.vp /programas/vps/cartera/mencaja2.men
+MANTENIMIENTO DE VENDEDORES
+vpg4s /programas/vps/cartera/altavnd2.vp
+MANTENIEMIENTO DE PROMOTORES
+vpg4s /programas/vps/cartera/altaprom2.vp
+MANTENIMIENTO DE CODIGOS CAJA (TIENDAS)
+vpg4s /programas/vps/cartera/altatda.vp
+IMPRESION DE ANALITICO DE VENTAS
+vpg4s /programas/vps/cartera/relvtas.vp
+IMPRESION ACUMULADO DE POLIZAS
+vpg4s /programas/vps/cartera/repacupo.vp
+IMPRESION RELACION DE TRASPASOS
+vpg4s /programas/vps/cartera/reltrasp.vp
+SIGUIENTE MENU DE CAJA
+vpg4s /programas/vps/cartera/menu.vp /programas/vps/cartera/mencaja3.men

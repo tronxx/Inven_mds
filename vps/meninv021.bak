@@ -1,0 +1,19 @@
+MENU II DE OPERACIONES DIARIAS 
+FACTURACION DE MAYOREO
+vpg4s /programas/vps/inven/hazfacma.vp
+MOVIMIENTOS DE CLIENTES MAYORISTAS (ABONOS)
+vpg4s /programas/vps/inven/movtmay.vp
+ENVIO DE ENTRADAS (MOVIMIENTOS PROVEEDOR)
+vpg4s /programas/vps/inven/envmovp.vp
+RECEPCION DE ENTRADAS (MOVIMIENTOS PROVEEDOR)
+vpg4s /programas/vps/inven/recmovp.vp
+MOVIMIENTOS PAGARES (CONFAD)
+vpg4s /programas/vps/inven/capenpag.vp
+CAPTURA SALIDAS FONACOT
+vpg4s /programas/vps/inven/capsalfon.vp
+CAPTURA CANCELACIONES FONACOT
+vpg4s /programas/vps/inven/capcanfo.vp
+CAPTURA DEVOLUCIONES S/VENTAS
+vpg4s /programas/vps/inven/capdevta.vp
+CAPTURA CANCELACIONES X CAMBIO FONACOT
+vpg4s /programas/vps/inven/canxcamfo.vp

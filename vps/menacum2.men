@@ -1,0 +1,29 @@
+MENU DE INFORMES CARTERA
+RESULTADOS DE VENTAS A CREDITO SEGUN TIPO DE CLIENTE.
+vpg4s /programas/vps/cartera/vtasccr.vp
+REVOLVENCIA DE VTAS. BRUTAS A CREDITO
+vpg4s /programas/vps/cartera/revcred.vp
+DESGLOCE FACTURACION
+vpg4s /programas/vps/cartera/prodfin.vp
+TOTAL FACTURACION
+vpg4s /programas/vps/cartera/vtasino.vp
+TOTAL FACTURACION CREDITO
+vpg4s /programas/vps/cartera/vtacrdsn.vp
+TOTAL FACTURACION SI X PLAZOS 
+vpg4s /programas/vps/cartera/totfaclc.vp
+ANALITICO DE CLIENTES QUE CANCELARON X INCOBRABLE
+vpg4s /programas/vps/cartera/anclinco.vp
+ACUMULADO DE VTAS.POR POBLACION
+vpg4s /programas/vps/cartera/acumpob.vp
+ANALITICO DE CLIENTES SALDADOS
+vpg4s /programas/vps/cartera/anclisal.vp
+ANALITICO DE CTES.CON CARTA 
+vpg4s /programas/vps/cartera/analicar.vp
+ANALITICO DE VENTAS DE CONTADO
+vpg4s /programas/vps/cartera/repvtcon.vp
+TABLA ANALITICA DE LOS CLIENTES CON CARTA
+vpg4s /programas/vps/cartera/tbanlicar.vp
+RESULTADOS DE VENTAS A CONTADO Y CREDITO
+vpg4s /programas/vps/cartera/vtacyc.vp
+SIGUIENTE MENU
+bmenu /programas/vps/cartera/menacum3.men

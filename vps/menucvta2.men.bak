@@ -1,0 +1,19 @@
+T MENU 2 IMPRESION INFORME DE INVENTARIOS
+O ESTADO DE RESULTADOS INVENTARIO (EDOINV)
+X vpg4s /programas/vps/inven/edoinv.vp
+O CONCENTRADO DE DEVOLUCIONES A PROVEEDOR (CONDEVPR)
+X vpg4s /programas/vps/inven/condevpr.vp
+O CONCENTRADO DE ENTRADAS POR NUMERO (CONSENT)
+X vpg4s /programas/vps/inven/consent.vp
+O TABLA DE COMPRAS MENSUAL Y ANUAL (INFENT)
+X vpg4s /programas/vps/inven/infent.vp
+O CONCENTRADO DE DEV.PROVEEDOR CON ANALITICO (CONDEVPR)
+X vpg4s /programas/vps/inven/condevpr.vp
+O ANALITICO DE COMPRAS POR PROVEEDOR (ANALIENT)
+X vpg4s /programas/vps/inven/analient.vp
+O TABLA DEL DESGLOCE DEL COST.VENTAS GLOBAL Y SU VARIACION (INFCOMP)
+X vpg4s /programas/vps/inven/infcomp.vp
+O ANALISIS DE ROTACION DE INVENTARIOS (ANALIROT)
+X vpg4s /programas/vps/inven/analirot.vp
+O SIGUIENTE MENU DE INFORMES
+M /programas/vps/inven/meninv031.men

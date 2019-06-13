@@ -1,0 +1,17 @@
+MENU DE CAJA (CONTINUACION II)
+MENU DE CAPTURA DE VENTAS
+vpg4s /programas/vps/cartera/menu.vp /programas/vps/cartera/menuvta1.men
+RELACION DE CLIENTES QUE SALDARON EN POLIZA
+vpg4s /programas/vps/cartera/relsalpo.vp
+EDITOR DE TEXTOS
+joe mitexto.tex
+IMPRESION DE TEXTOS
+vpg4s /programas/vps/cartera/impedit.vp
+RELACION DE CLIENTES VIGENTES
+vpg4s /programas/vps/cartera/repclivi.vp
+CAPTURA RELACION DE COBRANZA FONACOT
+vpg4s /programas/vps/cartera/relcobfo.vp
+ANALITICO DE POLIZAS
+vpg4s /programas/vps/cartera/analipol.vp
+CAPTURA POLIZA DE COBRANZA FONACOT
+vpg4s /programas/vps/cartera/polcobfo.vp

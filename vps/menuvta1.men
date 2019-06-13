@@ -1,0 +1,28 @@
+MENU VENTAS
+CONSULTA DE CLIENTES
+vpg4s /programas/vps/cartera/conscli5.vp
+CAPTURA DE VENTAS
+vpg4s /programas/vps/cartera/altacli5.vp
+CAPTURA DE VENTAS FONACOT
+vpg4s /programas/vps/cartera/altafon.vp
+TRASPASO INFORMACION/COMPUTADORAS
+vpg4s /programas/vps/cartera/menu.vp /programas/vps/cartera/mencaja2.men
+MANTENIMIENTO DE VENDEDORES
+vpg4s /programas/vps/cartera/altavnd2.vp
+MANTENIEMIENTO DE PROMOTORES
+vpg4s /programas/vps/cartera/altaprom2.vp
+IMPRESION DE ANALITICO DE VENTAS
+vpg4s /programas/vps/cartera/relvtas.vp
+EDITOR DE TEXTOS
+joe mitexto.txt
+IMPRESION DE EDITORES
+vpg4s /programas/vps/cartera/impedit.vp
+ACUMULADO DE VENTAS
+vpg4s /programas/vps/cartera/acumula.vp
+IMPRESION DE VENTAS POR VENDEDOR
+vpg4s /programas/vps/cartera/vtnetvn.vp
+IMPRESION DE VENTAS POR PROMOTOR
+vpg4s /programas/vps/cartera/vtaprom.vp
+IMPRESION VENTAS FONACOT
+vpg4s /programas/vps/cartera/capfafon.vp
+

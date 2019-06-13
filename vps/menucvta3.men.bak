@@ -1,0 +1,9 @@
+T MENU 2 IMPRESION INFORME DE INVENTARIOS
+O REPORTE DE COSTO DE VENTAS MAYOREO (REPCOVMA)
+X vpg4s /programas/vps/inven/repcovma.vp
+O INVENTARIO FINAL ESPERADO (INVFIESP)
+X vpg4s /programas/vps/inven/invfiesp.vp
+O INFORME COSTO DE VENTAS CREDITO Y CONTADO (INFCVTACYC)
+X vpg4s /programas/vps/inven/infcvtacyc.vp
+O SIGUIENTE MENU DE INFORMES COSTO DE VENTAS
+M /programas/vps/inven/meninv31.men

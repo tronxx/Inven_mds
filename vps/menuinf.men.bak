@@ -1,0 +1,38 @@
+T MENU IMPRESION INFORME DE INVENTARIOS
+O EXISTENCIA POR UBICACION (EXIUBI)
+X vpg4s /programas/vps/inven/exiubi.vp
+O EXISTENCIAS POR LINEA (EXIXLIN)
+X vpg4s /programas/vps/inven/exixlinb.vp
+O EXISTENCIAS A ULTIMO COSTO (ANEXIULC)
+X vpg4s /programas/vps/inven/anexiulc.vp
+O EXISTENCIAS A ULTIMO COSTO X PROVEEDOR (EXIULCP)
+X vpg4s /programas/vps/inven/exiulcp.vp
+
+O ACUMULADO DE COSTO DE VENTAS (TABLA X PTO.DE VTA.)
+X vpg4s /programas/vps/inven/infcvta.vp
+O ANALITICO DE COSTO DE VENTA POR LINEA
+X vpg4s /programas/vps/inven/repcvta.vp
+O TABLA POR LINEA DEL COSTO DE VENTA
+X vpg4s /programas/vps/inven/tabcvta.vp
+O IMPRESION M.U.B. FONACOT Y CANCELACIONES
+X vpg4s /programas/vps/inven/mubfon.vp
+O TABLA Y ANALITICO SALIDAS DE FONACOT
+X vpg4s /programas/vps/inven/analifon.vp
+O COSTO DE VENTA POR UBICACION Y POR LINEA
+X vpg4s /programas/vps/inven/cvtaubi.vp
+O ANALITICOS DE ENTRADAS / CTO.DE VTA. (MENUDEO,MAYOREO,FONACOT)
+X vpg4s /programas/vps/inven/analisma.vp
+O CONCENTRADO DE ENTRADAS POR NUMERO
+X vpg4s /programas/vps/inven/consent.vp
+O TABLA DE COMPRAS MENSUAL Y ANUAL
+X vpg4s /programas/vps/inven/infent.vp
+O ANALITICO DE COMPRAS POR PROVEEDOR
+X vpg4s /programas/vps/inven/analient.vp
+O CONCENTRADO DE DEVOLUCIONES A PROVEEDOR CON ANALITICO
+X vpg4s /programas/vps/inven/condevpr.vp
+O TABLA DEL DESGLOCE DEL COSTO DE VENTAS GLOBAL Y SU VARIACION
+X vpg4s /programas/vps/inven/infcomp.vp
+O ANALISIS DE ROTACION DE INVENTARIOS
+X vpg4s /programas/vps/inven/analirot.vp
+O SIGUIENTE MENU DE INFORMES
+M /programas/vps/inven/meninv031.men

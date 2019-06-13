@@ -1,0 +1,27 @@
+T MENU DE OPERACIONES DIARIAS 
+O CAPTURA DE ENTRADAS
+X vpg4s /programas/vps/inven/capent.vp
+O CAPTURA DE TRANSFERENCIAS
+X vpg4s /programas/vps/inven/captrasp2.vp T
+O CAPTURA DEVOLUCIONES ENTRE ALMACENES
+X vpg4s /programas/vps/inven/captrasp2.vp D
+O CAPTURA DE SALIDAS DE SABANA (MENUDEO)
+X vpg4s /programas/vps/inven/capvtas.vp V
+O CAPTURA DE SALIDAS ESPECIALES
+X vpg4s /programas/vps/inven/capsales.vp
+O CAPTURA DE CANCELACIONES X CAMBIO
+X vpg4s /programas/vps/inven/canxcam.vp X
+O CAPTURA DEVOLUCIONES DE MAYOREO
+X vpg4s /programas/vps/inven/capcanmay.vp
+O CAPTURA DEVOLUCIONES A PROVEEDORES
+X vpg4s /programas/vps/inven/capdevpr.vp
+O CAPTURA DE CANCELACIONES S/VENTAS
+X vpg4s /programas/vps/inven/capcancel.vp C
+O CAPTURA DE MOVIMIENTOS INTERNOS
+X vpg4s /programas/vps/inven/capmvint.vp
+O CAPTURA ENTRADAS ESPECIALES
+X vpg4s /programas/vps/inven/capentes.vp
+O SHELL DE LINUX
+X bash
+O SIGUIENTE MENU DE OPERACIONES DIARIAS
+M /programas/vps/inven/meninv021.men

@@ -1,0 +1,31 @@
+03 11  Clave del Proveedor
+03 16  Nombre del Proveedor
+03 57  Numero de la Entrada
+03 69  Fecha de la Entrada
+04 11  Numero de la Factura
+05 11  Importe de la Entrada en Inventario
+06 11  Costo Financiero
+08 73  Tasa de Interes
+06 73  Porcentaje de Iva
+07 11  Importe del Capital
+06 34  Iva del Capital (Factura)
+09 11  Iva de los Intereses
+07 73  Numero de Letras
+05 74  Dias Vencimiento x Letra
+07 55  Importe Total a Pagar
+09 34  Pagos S/Capital
+07 34  Pagos S/Interes
+08 55  Importe Total de Pagos
+08 34  Pagos S/Iva
+06 55  Saldo Capital
+09 55  Saldo Total de Entrada
+08 11  Total Intereses
+05 52  Fecha de Entrada Inven
+09 73  Tasa de Compra
+05 55  Iva del Costo Financiero de Compra
+09 73  Tasa del Financiamiento Proveedor
+04 27  Clave del Plan de Pago del Proveedor
+04 31  Descripcion del Plan de Pago
+04 55  Fecha del Primer Pago
+04 69  Fecha del Ultimo Pago
+05 34  Importe de Descuentos por Aplicar

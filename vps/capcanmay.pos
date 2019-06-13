@@ -1,0 +1,23 @@
+03 11  Clave del Almacen
+03 16  Descripcion del Almacen
+03 55  Numero de la Entrada
+03 69  Fecha de la Entrada
+04 11  Clave del Mayorista
+04 16  Nombre del Cliente
+04 51  Vendedor
+04 56  Nombre del Vendedor
+05 11  Poblacion
+05 11  Importe
+05 33  Iva
+05 57  Total
+05 51  Almacen Punto de Venta
+05 56  Descripcion del Almacen Punto de Venta
+05 55  Fecha de Primer Pago
+06 55  Fecha de Ultimo Pago
+06 23  Tasa de Costo financiero proveedor
+06 33  Importe de Costo financiero de Proveedor
+07 55  Numero de Factura del Proveedor
+08 07  Importe de Fletes
+08 33  Importe del Costo Total de Entrada
+07 33  Descuentos por aplicar
+08 33  Gran total de la entrada

@@ -1,0 +1,11 @@
+
+SHELL QNX
+X
+FACTURACION DE MAYOREO
+vpg4s /programas/vps/inven/hazfacma.vp
+MOVIMIENTOS DE CLIENTES MAYORISTAS (ABONOS)
+vpg4s /programas/vps/inven/movtmay.vp
+SIGUIENTE MENU DE OPERACIONES DIARIAS
+!bmenu /programas/vps/inven/menu021
+PAGOS A PROVEEDORES
+vpg4s /programas/vps/inven/capenpag3.vp

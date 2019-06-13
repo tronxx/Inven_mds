@@ -1,0 +1,10 @@
+03 28  Almacen de la Poliza
+03 33  Nombre del Almacen
+04 10  Fecha de la Poliza
+03 10  Folio de la Poliza
+04 28  Importe de Documentos (Total)
+04 50  Usuario
+05 55  Cuenta a la que se deposita
+05 10  Concepto de la Poliza
+06 10  Forma de Pago
+07 10  Numero de Cuenta

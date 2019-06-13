@@ -1,0 +1,10 @@
+03 13  Zona
+03 73  Esta Zona es Global o Parcial
+04 12  Subzona
+04 17  Descripcion
+05 32  Porcentaje Sobre Ventas de Contado
+06 32  Porcentaje sobre Ventas de Credito
+07 32  Porcentaje sobre Ventas de FONACOT
+08 32  Porcentaje sobre Ventas de FIDE
+09 32  Porcentaje sobre Ventas de IMEVI
+10 32  Porcentaje sobre Ventas de OFERTA

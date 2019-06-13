@@ -1,0 +1,11 @@
+T MENU II DE MAYOREO
+O REMISIONES DE MAYOREO
+X vpg4s /programas/vps/inven/hazfacma.vp 2
+O RELACION DE PAGARES VENCEN RANGO DE DIAS
+X vpg4s /programas/vps/inven/relvimay.vp
+O NOTAS DE CREDITO DE MAYOREO
+X vpg4s /programas/vps/inven/hazncrma.vp 3
+O ANALITICO DE FACTURAS Y PAGOS MAYOREO
+X vpg4s /programas/vps/inven/analifmay.vp 4
+O EXISTENCIAS PARA ENVIAR A MAYORISTAS
+X vpg4s /programas/vps/inven/exispcon2.vp

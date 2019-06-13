@@ -1,0 +1,27 @@
+T MENU II DE OPERACIONES DIARIAS 
+O CAPTURA DE SALIDAS DE MAYOREO
+X vpg4s /programas/vps/inven/capsmay.vp
+O FACTURACION DE MAYOREO
+X vpg4s /programas/vps/inven/hazfacma.vp
+O CAPTURA DE PAGOS MAYOREO
+X vpg4s /programas/vps/inven/movtmay.vp
+O IMPRESION DE COMPRAS-PAGOS-PENDIENTE POR COBRAR MAYOREO
+X vpg4s /programas/vps/inven/analimvm.vp
+O CAPTURA DE SALIDAS DE SABANA FONACOT
+X vpg4s /programas/vps/inven/capsalfon.vp F
+O CAPTURA CANCELACIONES X CAMBIO FONACOT
+X vpg4s /programas/vps/inven/canxcam.vp N
+O CAPTURA CANCELACIONES FONACOT
+X vpg4s /programas/vps/inven/capcancel.vp O
+O ENVIO DE ENTRADAS (MOVIMIENTOS PROVEEDOR)
+X vpg4s /programas/vps/inven/envmovp.vp
+O RECEPCION DE ENTRADAS (MOVIMIENTOS PROVEEDOR)
+X vpg4s /programas/vps/inven/recmovp.vp
+O MOVIMIENTOS PAGARES (CONFAD)
+X vpg4s /programas/vps/inven/capenpag.vp
+O CAPTURA DEVOLUCIONES S/VENTAS
+X vpg4s /programas/vps/inven/capdevta.vp
+O SHELL DE LINUX
+X bash
+O SIGUIENTE MENU DE OPERACIONES
+M /programas/vps/inven/meninv022.men

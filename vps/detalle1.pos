@@ -1,0 +1,25 @@
+01 09  Almacen
+01 20  Folio
+01 32  Serie
+02 11  Clave del Proveedor
+02 16  Nombre del Proveedor
+03 07  Entrada X
+03 35  Numero de Entrada
+03 48  Fecha de Entrada
+03 66  Status de la Entrada
+01 59  Costo de la Entrada
+04 07  Sale x
+04 35  Numero de la Salida
+04 48  Fecha de la Salida
+04 66  Status de la Salida
+05 12  A nombre de quie esta la salida
+05 54  Poblacion del Cliente
+06 10  Viene del Almacen
+06 15  Tenia el Folio
+06 32  Sale para el Almacen
+06 37  Lo recibe el folio
+07 24  Fecha de Entrada Original
+07 47  Fecha de Vencimiento
+07 70  Es Articulo de Cancelacion ?
+06 50  Punto de Venta
+06 60  Vendedor

@@ -1,0 +1,7 @@
+MENU MOROSOS (II)
+IMPRESION REPORTE MOROSOS
+vpg4s /programas/vps/cartera/repmor.vp
+IMPRESION DE DESPACHO
+vpg4s /programas/vps/cartera/despati2.vp
+REPORTE INDICE DE PRODUCTIVIDAD
+vpg4s /programas/vps/cartera/indprod.vp

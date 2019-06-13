@@ -1,0 +1,13 @@
+03 08  Clave del Plan de Pago
+03 24  Descripcion del Plan de Pago
+04 09  Numero de Letras del Plan de Pago
+05 28  El Iva es distribuido entre todas las letras ? <S/N>:
+06 28  Numero de la Letra del Iva
+07 53  El Vencimiento de la Letra del Iva es el mismo que el de la letra Numero x
+08 31  El Plazo en dias por cada letra
+09 24  Tasa de Interes anual
+10 48  El Interes se calcula sobre saldos insolutos ?
+11 35  El flete se distribuye entre las letras ?
+12 51  La letra del iva, empuja los vencimientos ?
+13 53  La Letra del Iva Aparece Sola en una Letra ? <S/N>: 
+14 53  El Descuento x Aplicar es Distribuido ? <S/N>:

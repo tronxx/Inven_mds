@@ -1,0 +1,49 @@
+03 09  Codigo del Articulo
+03 35  Descripcion del Articulo
+03 71  Tipo del Articulo
+04 09  Codigo Auxiliar
+04 30  Proveedor del Articulo
+04 41  Linea del Articulo
+08 09  Empaque del Articulo
+05 63  Unidades Minimas en Stock
+06 63  Unidades Maximas es Stock
+05 35  Precio de Venta Antes de Iva
+04 50  Porcentaje de Iva
+05 09  Costo Si
+06 09  Costo No
+11 04  Unidades Iniciales Si
+11 11  Unidades que Entraron por Compra Si
+11 18  Undades que Entraron por cancelacion Si
+11 25  Unidades que entraron por otras entradas si
+11 32  Unidades totales que entraron si
+11 39  Salidas por Venta Si
+11 46  Salidas por Fonacot Si
+11 53  Salidas por otros conceptos si
+11 60  Salidas Mayoreo si
+11 67  Existencia Si
+12 04  Unidades Iniciales No
+12 11  Unidades que Entraron por Compra No
+12 18  Undades que Entraron por cancelacion No
+12 25  Unidades que entraron por otras entradas No
+12 32  Unidades totales que entraron No
+12 39  Salidas por Venta No
+12 46  Salidas por Fonacot No
+12 53  Salidas por otros conceptos No
+12 60  Salidas Mayoreo No
+12 67  Existencia No
+08 68  Fecha Base Calculo Maximos
+05 74  Marca del Articulo
+06 68  Descripcion de la Marca
+06 35  Precio Electro Hogar
+04 62  Grupo del Diary
+05 52  MUB MDS
+06 52  MUB ELEC
+08 35  Fecha Ultimo Cambio de Precio
+08 52  Fecha Vigencia
+09 09  Descripcion Larga
+05 23  Leyenda Precio MDS
+06 23  Leyenda Precio FIDE
+07 09  Costo Final
+07 35  Precio Final
+07 54  MUB Final
+07 63  Garantia

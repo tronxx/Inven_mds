@@ -1,0 +1,20 @@
+03 12  Numero de Factura
+03 25  Fecha de Factura
+03 45  Fecha de Venta
+04 12  Clave del Mayorista
+04 18  Nombre del Mayorista
+05 12  Direccion del Mayorista
+06 12  RFC Mayorista
+06 39  Referencia
+03 67  Importe de Factura
+05 67  Iva de Factura
+06 67  Total de Factura
+03 42  Numero de Pagos
+03 49  Plazo en Dias x Pago
+06 57  Tipo de Factura Mercancia o Intereses
+03 57  Porcentaje de Descuento de la Factura
+04 67  Importe del Descuento
+05 57  Factura de Menudeo o Mayoreo (M/Y)
+04 52  Tipo Mayorista Filial o Mayoreo
+07 12  Forma de Pago 
+07 39  Numero de Cuenta de Pago
